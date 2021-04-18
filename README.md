@@ -31,11 +31,11 @@ The county with the largest number of votes:
 
 The number of votes and the percentage of the total votes each candidate received:
 
-  •	Charles Casper Stockham: 23.0% (85,213)
+    •	Charles Casper Stockham: 23.0% (85,213)
   
-  •	Diana DeGette: 73.8% (272,892)
+    •	Diana DeGette: 73.8% (272,892)
   
-  •	Raymon Anthony Doane: 3.1% (11,606)
+    •	Raymon Anthony Doane: 3.1% (11,606)
   
 
 Winning election candidate with the number of vote count, and percentage of total votes: 
