@@ -10,7 +10,8 @@ The purpose of this election audit analysis was to get the voter turnout for eac
 Total votes cast in this congressional election: 
 •	Total Votes: 369,711
 
-Election Results![image](https://user-images.githubusercontent.com/79559910/115131507-a2e21a80-9fc6-11eb-90f1-61df686145f8.png)
+Election Results!
+[image](https://user-images.githubusercontent.com/79559910/115131507-a2e21a80-9fc6-11eb-90f1-61df686145f8.png)
 
 The county results, number of votes and the percentage of total votes for each county:
 •	Jefferson contributed 10.5% of the vote and 38,855 votes
