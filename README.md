@@ -18,11 +18,9 @@ Total votes cast in this congressional election:
   •	Jefferson contributed 10.5% of the vote and 38,855 votes
   •	Denver contributed 82.8% of the vote and 306,055 votes
   •	Arapahoe contributed 6.7% of the vote and 24,801 votes
-
 The county with the largest number of votes: 
 
   •	Denver - 306,055 votes
-
 The number of votes and the percentage of the total votes each candidate received:
 
   •	Charles Casper Stockham: 23.0% (85,213)
