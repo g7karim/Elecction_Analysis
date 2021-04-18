@@ -9,6 +9,7 @@ The purpose of this election audit analysis was to get the voter turnout for eac
 
 Total votes cast in this congressional election: 
 •	Total Votes: 369,711
+
 [image](https://user-images.githubusercontent.com/79559910/115131468-5bf42500-9fc6-11eb-8c34-394a8c21cb9a.png)
 
 The county results, number of votes and the percentage of total votes for each county:
