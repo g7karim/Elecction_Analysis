@@ -8,6 +8,7 @@ the percentage of votes from each county out of the total count and the county w
 2. Election-Audit Results: 
 
 Election Results
+
 ![image](https://user-images.githubusercontent.com/79559910/115131507-a2e21a80-9fc6-11eb-90f1-61df686145f8.png)
 
 Total votes cast in this congressional election: 
