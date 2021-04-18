@@ -1,4 +1,4 @@
-Deliverable 3 Instructions
+Deliverable 3: Written Analysis of the Election Audit
 
   1. Overview of Election Audit: 
 
