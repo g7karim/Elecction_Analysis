@@ -29,7 +29,10 @@ The number of votes and the percentage of the total votes each candidate receive
   •	Raymon Anthony Doane: 3.1% (11,606)
 
 Winning election candidate with the number of vote count, and percentage of total votes: 
+
   •	Winning candidate: Diana DeGette
+  
   •	Winning Vote Count: 272,892
+  
   •	Winning Percentage: 73.8%
-![image](https://user-images.githubusercontent.com/79559910/115131652-b477f200-9fc7-11eb-9667-7d9dcfd4594e.png)
+
