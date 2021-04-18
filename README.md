@@ -40,9 +40,9 @@ The number of votes and the percentage of the total votes each candidate receive
 
 Winning election candidate with the number of vote count, and percentage of total votes: 
 
-  •	Winning candidate: Diana DeGette
+    •	Winning candidate: Diana DeGette
   
-  •	Winning Vote Count: 272,892
+    •	Winning Vote Count: 272,892
   
-  •	Winning Percentage: 73.8%
+    •	Winning Percentage: 73.8%
 
