@@ -47,3 +47,6 @@ Winning election candidate with the number of vote count, and percentage of tota
   
     •	Winning Percentage: 73.8%
 
+3. Election-Audit Summary:
+The presented script can aid any kind of election to anyle the data and determine the wining county ot candidate with very minimal motofication. For instance,
+for the analysis of a provincial congressional election, all is required is to do is modify the counties to provincial. As well, different raw material with different candidates or states can be analyzed using the same codes and formulas already written.
