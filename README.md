@@ -3,7 +3,6 @@ Deliverable 3: Written Analysis of the Election Audit
   1. Overview of Election Audit: 
 
 The purpose of this election audit analysis was to get the voter turnout for each county, 
-
 the percentage of votes for each county out of the total count, the county with the highest turnout and the winning candidate.
 
   2. Election-Audit Results: 
