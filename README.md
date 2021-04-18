@@ -14,20 +14,20 @@ Election Results Screenshot
 
 Total votes cast in this congressional election: 
 
-  •	Total Votes: 369,711
+    •	Total Votes: 369,711
 
 The county results, number of votes and the percentage of total votes for each county:
 
-  •	Jefferson contributed 10.5% of the vote and 38,855 votes
+    •	Jefferson contributed 10.5% of the vote and 38,855 votes
   
-  •	Denver contributed 82.8% of the vote and 306,055 votes
+    •	Denver contributed 82.8% of the vote and 306,055 votes
   
-  •	Arapahoe contributed 6.7% of the vote and 24,801 votes
+    •	Arapahoe contributed 6.7% of the vote and 24,801 votes
   
 
 The county with the largest number of votes: 
 
-  •	Denver - 306,055 votes
+    •	Denver - 306,055 votes
 
 The number of votes and the percentage of the total votes each candidate received:
 
